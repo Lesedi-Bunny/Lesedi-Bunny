@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lesedi-Bunny
-- 👀 I’m interested in ...software engineering and copywriting
-- 🌱 I’m currently learning ...software enginnering at ALX
+- 👀 I’m interested in ...software engineering and football
+- 🌱 I’m currently learning ...software enginnering at ALX and BSc in Info Tech in Com Sc & Informatics at UJ
 - 💞️ I’m looking to collaborate on ...software projects
 - 📫 How to reach me ...inbox me on my social media platforms
 
